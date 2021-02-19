@@ -1,0 +1,46 @@
+.canvasImageSet {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  place-items: center;
+}
+
+.row3 {
+  padding-left: 50px;
+  text-align: left;
+}
+
+.sigCanvas12 {
+  /* background-color: blue ; */
+  background: url(./download.png);
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  /* background-attachment: fixed !important; */
+  /* object-fit: cover; */
+  background-size: cover;
+  /* height: 500;
+    width: 500; */
+}
+
+.error_border {
+  border: 3px solid red !important;
+}
+
+.demo {
+  width: 30%;
+  padding: 10px;
+  text-align: left;
+}
+
+.button1 {
+  margin-left: 80px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-left: 20px !important;
+}
+
+/* form {
+  margin-left: 10px;
+} */

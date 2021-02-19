@@ -1,0 +1,22 @@
+.button2 {
+  margin-left: 10px;
+}
+.active {
+  background-color: #7fff00;
+}
+
+.inactive {
+  background-color: #ffffff;
+}
+
+.addLead {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  place-items: center;
+}
+
+.row2 {
+  padding-left: 50px;
+  text-align: left;
+}

@@ -1,0 +1,21 @@
+
+  
+  /* Main content */
+  .row{
+    margin-left: 150px; 
+    font-size: 20px; /* Increased text to enable scrolling */
+    padding: 10px;
+  }
+  .card{
+      margin-left: 10px;
+      margin-right: 10px;
+  }
+  
+
+  
+  /* Some media queries for responsiveness */
+  /* @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  } */
+  

@@ -1,0 +1,42 @@
+.notess {
+  margin-left: 450px;
+}
+
+.abc {
+  margin-left: 0px;
+}
+
+.canvasImageSet {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  place-items: center;
+}
+
+.row3 {
+  padding-left: 50px;
+  text-align: left;
+  place-items: start;
+  display: grid;
+}
+
+.sigCanvas12 {
+  /* background-color: blue ; */
+  background: url(./download.png);
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  /* background-attachment: fixed !important; */
+  /* object-fit: cover; */
+  background-size: cover;
+  /* height: 500;
+  width: 500; */
+}
+
+.error_border {
+  border: 2px solid red;
+}
+
+.button1 {
+  margin-left: 80px;
+  margin-bottom: 20px;
+}
